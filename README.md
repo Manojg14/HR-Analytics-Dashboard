@@ -129,7 +129,7 @@ The dashboard focuses on:
 
 ## 📷 Dashboard Preview
 
-
+[Dashboard View](https://github.com/Manojg14/New_Car_Purchase_Prediction/blob/main/Car%20Purchase%20Prediction%20Demo.mp4)
 ## 📁 Repository Structure
 
 ```
