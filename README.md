@@ -129,7 +129,8 @@ The dashboard focuses on:
 
 ## 📷 Dashboard Preview
 
-[Dashboard View](https://github.com/Manojg14/HR-Analytics-Dashboard/blob/main/Images/HR%20Analystics%20Dashboard.PNG)
+![HR Analytics Dashboard](https://github.com/Manojg14/HR-Analytics-Dashboard/blob/main/Images/HR%20Analystics%20Dashboard.PNG?raw=true)
+
 ## 📁 Repository Structure
 
 ```
